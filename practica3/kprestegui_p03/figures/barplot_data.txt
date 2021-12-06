@@ -1,0 +1,7 @@
+three_prime_UTR 1
+mature_protein_region_of_CDS 27
+region 1
+CDS 13
+stem_loop 5
+five_prime_UTR 1
+gene 11

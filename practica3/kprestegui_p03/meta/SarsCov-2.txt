@@ -1,0 +1,8 @@
+El virus SARS-CoV-2 pertenece a la familia Coronaviridae al género Betacoronavirus.
+La familia Coronaridae provoca enfermedades en mamíferos y aves en el tracto respiratorio,
+al sistema nervioso cerntral y gastrointestinales.
+La estructura de su genoma fue secuenciada en China inicialmente en un par de días.
+Parece ser que tuvo origen en los murciélagos, aunque dado que la cercanía no es tanta, parece ser que hubo un hospedero intermedio. 
+La proteina (S), tiene un ectodominio, S1 y S2. S1 es el que se une a la célula y S2 es el que participa en la fusión.
+Los receptores a los que la proteína (S) se une se encuentran en células como el tracto gastrointestinal, el tejido nervioso
+y el sistema respirator io, por lo que no se puede contagiar con contacto con la piel, por ejemplo.
